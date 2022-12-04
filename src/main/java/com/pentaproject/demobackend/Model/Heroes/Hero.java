@@ -22,7 +22,7 @@ public class Hero {
     @Id
     private String id;
     private String name;
-    private Integer life;
+    private Integer hp;
     private Integer mana;
     private Integer attack;
     private Integer defence;

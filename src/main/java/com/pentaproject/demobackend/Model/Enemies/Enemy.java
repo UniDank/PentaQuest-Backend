@@ -23,7 +23,7 @@ public class Enemy {
     private int id;
     private String name;
     private EnemyType category;
-    private Integer life;
+    private Integer hp;
     private Integer mana;
     private Integer attack;
     private Integer Defence;
