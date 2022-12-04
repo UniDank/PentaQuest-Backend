@@ -15,7 +15,5 @@ Sezione del progetto ISS 2021/2022
 
 
 ## Crediti
-- Me
-- **Me**
-- >Me
-- *Me*
+- *Claudio Bellanti*
+- *Marco Valenti*
