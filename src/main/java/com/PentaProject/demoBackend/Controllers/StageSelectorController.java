@@ -23,6 +23,7 @@ import io.swagger.v3.oas.annotations.responses.ApiResponses;
 @RestController
 @AllArgsConstructor
 @RequestMapping("/api/v1")
+@CrossOrigin
 public class StageSelectorController {
     private PartyController partyController;
     private EnemyController enemyController;
